@@ -3,23 +3,23 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo.
 
 - [ ] Bertanggung jawab penuh pada kegiatan Expo serangkaian INTEGER #3
 
-- [ ]	Menyusun konsep Expo yang akan diadakan
+- [ ] Menyusun konsep Expo yang akan diadakan
 
-- [ ]	Menyusun susunan acara secara jelas dan terperinci yang kemudian diserahkan kepada Sie Acara
+- [ ] Menyusun susunan acara secara jelas dan terperinci yang kemudian diserahkan kepada Sie Acara
 
-- [ ]	Berkoordinasi dengan sie acara terkait dengan gitapati,MC/Pewara, moderator, dlnya
+- [ ] Berkoordinasi dengan sie acara terkait dengan gitapati,MC/Pewara, moderator, dlnya
 
-- [ ]	Mempresentasikan dengan jelas dan terperinci hasil konsep dari Expo yang disusun
+- [ ] Mempresentasikan dengan jelas dan terperinci hasil konsep dari Expo yang disusun
 
-- [ ]	Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan 		Expo.
+- [ ] Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.
 
-- [ ]	Membuat RAB sie dan LPJ sie yang kemudian diserahkan kepada Bendahara
+- [ ] Membuat RAB sie dan LPJ sie yang kemudian diserahkan kepada Bendahara
 
-- [ ]	Bertanggung jawab terhadap Ketua Panitia
+- [ ] Bertanggung jawab terhadap Ketua Panitia
 
-- [ ]	Membantu Sie Penggalian Dana dalam melakukan Paid Promote dan Penggalian Dana
+- [ ] Membantu Sie Penggalian Dana dalam melakukan Paid Promote dan Penggalian Dana
 
-- [x]	Mengusulkan tema kegiatan INTEGER #3
+- [x] Mengusulkan tema kegiatan INTEGER #3
 
 ## Usulan Tema Integer #3
 
