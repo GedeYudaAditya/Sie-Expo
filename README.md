@@ -1,7 +1,7 @@
 # Jobdesk Sie-Expo
-Berikut merupakan progress yang sudah di tempuh oleh Sie Expo.
+Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 
-- [ ] Bertanggung jawab penuh pada kegiatan Expo serangkaian INTEGER #3
+- [x] Bertanggung jawab penuh pada kegiatan Expo serangkaian INTEGER #3
 
 - [ ] Menyusun konsep Expo yang akan diadakan
 
@@ -15,11 +15,16 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo.
 
 - [ ] Membuat RAB sie dan LPJ sie yang kemudian diserahkan kepada Bendahara
 
-- [ ] Bertanggung jawab terhadap Ketua Panitia
+- [x] Bertanggung jawab terhadap Ketua Panitia
 
 - [ ] Membantu Sie Penggalian Dana dalam melakukan Paid Promote dan Penggalian Dana
 
 - [x] Mengusulkan tema kegiatan INTEGER #3
+
+< # FOKUS SAAT INI
+- **Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.**
+- [ ] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
+- [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar.
 
 ## Usulan Tema Integer #3
 
