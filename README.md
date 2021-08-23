@@ -24,7 +24,7 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 > # FOKUS SAAT INI
 **Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.**
 - [ ] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
-- [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar.
+- [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar. <
 
 ## Usulan Tema Integer #3
 
