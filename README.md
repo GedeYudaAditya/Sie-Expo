@@ -24,9 +24,15 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 # FOKUS SAAT INI
 - [ ] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
 - [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar.
-- [ ] Membuat RAB Sie. Deadline (30 Agustus 2021)
-- [ ] Tema Webinar dan Sharing session. Deadline (30 Agustus 2021)
-- [ ] Rundown Acara Deadline (30 Agustus 2021)
+- [ ] Membuat RAB Sie. Deadline (29 Agustus 2021)
+- [ ] Tema Webinar dan Sharing session. Deadline (29 Agustus 2021)
+- [ ] Rundown Acara Deadline (29 Agustus 2021)
+
+## Usulan Tema Sharing Session
+- 1001 Strategi untuk menuju kesuksesan di masa pandemi dengan teknologi.
+
+## Usulan Tema Webinar
+- The role of technology in leading us to a developed country in the midst of a pandemic.
 
 ## Usulan Tema Integer #3
 
