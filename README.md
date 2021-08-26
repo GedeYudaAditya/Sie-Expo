@@ -25,8 +25,8 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 - [ ] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
 - [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar.
 - [ ] Membuat RAB Sie. Deadline (30 Agustus 2021)
-- [ ] Tema Webinar dan Sharing session. (30 Agustus 2021)
-- [ ] Rundown Acara (30 Agustus 2021)
+- [ ] Tema Webinar dan Sharing session. Deadline (30 Agustus 2021)
+- [ ] Rundown Acara Deadline (30 Agustus 2021)
 
 ## Usulan Tema Integer #3
 
