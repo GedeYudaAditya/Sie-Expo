@@ -7,11 +7,11 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 
 - [ ] Menyusun susunan acara secara jelas dan terperinci yang kemudian diserahkan kepada Sie Acara
 
-- [ ] Berkoordinasi dengan sie acara terkait dengan gitapati,MC/Pewara, moderator, dlnya
+- [x] Berkoordinasi dengan sie acara terkait dengan gitapati,MC/Pewara, moderator, dlnya
 
 - [ ] Mempresentasikan dengan jelas dan terperinci hasil konsep dari Expo yang disusun
 
-- [x] Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.
+- [ ] Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.
 
 - [ ] Membuat RAB sie dan LPJ sie yang kemudian diserahkan kepada Bendahara
 
