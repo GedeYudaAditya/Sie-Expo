@@ -17,8 +17,8 @@ Day 1 :	Acara	: Shering Session
 	Sesi	: 	 Waktu  	  |	 Narasumber	| Sub Tema / Topik
 	1	| ( 09.00 AM - 10.00 AM ) |    Sandikha Galih	| Pengembangan dan strategi Bisnis Teknologi Web
 	Jeda	| ( 10.00 AM - 10.15 AM ) |    Pembawa Acara	| Quiz tentang materi yang di sampaikan
-	2	| ( 10.15 AM - 11.15 AM ) |    Teddy Mantoro	| Peran AI dan Robot dalam Kemajuan Bisnis Industri.
-	Jeda	| ( 11.15 AM - 11.30 AM ) |    Pembawa Acara	| Quiz tentang materi yang di sampaikan
+	2	| ( 10.30 AM - 11.30 AM ) |    Teddy Mantoro	| Peran AI dan Robot dalam Kemajuan Bisnis Industri.
+	Jeda	| ( 11.30 AM - 11.45 AM ) |    Pembawa Acara	| Quiz tentang materi yang di sampaikan
 
 Day 2 :	Acara	: Webinar
 	Tanggal	: 28 Oktober 2021
