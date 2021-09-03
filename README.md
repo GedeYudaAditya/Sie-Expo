@@ -3,13 +3,13 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 
 - [x] Bertanggung jawab penuh pada kegiatan Expo serangkaian INTEGER #3
 
-- [ ] Menyusun konsep Expo yang akan diadakan
+- [x] Menyusun konsep Expo yang akan diadakan
 
-- [ ] Menyusun susunan acara secara jelas dan terperinci yang kemudian diserahkan kepada Sie Acara
+- [x] Menyusun susunan acara secara jelas dan terperinci yang kemudian diserahkan kepada Sie Acara
 
 - [x] Berkoordinasi dengan sie acara terkait dengan gitapati,MC/Pewara, moderator, dlnya
 
-- [ ] Mempresentasikan dengan jelas dan terperinci hasil konsep dari Expo yang disusun
+- [x] Mempresentasikan dengan jelas dan terperinci hasil konsep dari Expo yang disusun
 
 - [ ] Berkoordinasi terhadap sie humas terkait  narasumber, undangan, dan pihak lainnya yang diperlukan dalam kegiatan Expo.
 
@@ -22,11 +22,11 @@ Berikut merupakan progress yang sudah di tempuh oleh Sie Expo dalam jobdesk nya.
 - [x] Mengusulkan tema kegiatan INTEGER #3
 
 # FOKUS SAAT INI
-- [ ] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
+- [x] Menentukan Undangan, Pemateri atau Narasumber, dan pihak yang di perlukan untuk sharing session dan webinar.
 - [ ] Berkoordinasi dengan Sie Humas terkait Pemateri atau Narasumber, undangan, dan pihak lainnya yang di perlukan untuk sharing session dan webinar.
-- [x] Membuat RAB Sie. Belum Fix 100%
+- [x] Membuat RAB Sie. Belum 100% fix
 - [x] Tema Webinar dan Sharing session.
-- [x] Rundown Acara, Belum Fix 100 %
+- [x] Rundown Acara
 
 ## Usulan Tema Sharing Session
 - 1001 Strategi untuk menuju kesuksesan di masa pandemi dengan teknologi.
